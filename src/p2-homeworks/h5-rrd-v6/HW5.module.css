@@ -4,6 +4,7 @@
 }
 
 .header {
+    display: block;
     width: 200px;
     margin-left: 5px;
     padding: 12px 15px;
