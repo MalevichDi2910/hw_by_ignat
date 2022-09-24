@@ -1,0 +1,46 @@
+.mainBackground {
+    background-image: url('https://naked-science.ru/wp-content/uploads/2018/04/field_image_istock-516189065.jpg');
+    color: lightgreen;
+}
+
+.button {
+    margin: 10px;
+    width: 60px;
+
+    background-color: #013220;
+    color: lightgreen;
+    outline: none;
+}
+
+.button:focus{
+    outline: lightgreen solid 1px;
+}
+
+.button:active{
+    background: lightgreen;
+}
+
+.active{
+    background: gray;
+}
+
+.affair {
+    display: flex;
+}
+
+.item {
+    margin: 10px;
+    width: 85px;
+}
+
+.high {
+    color: red;
+}
+
+.middle {
+    color: orange;
+}
+
+.low {
+    color: forestgreen;
+}

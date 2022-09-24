@@ -1,0 +1,46 @@
+.background {
+    background-image: url('https://cdn.novyny.live/images/thumbnail/1366x570/6156b6e8161a2-kosmos-1.jpeg');
+    color: lightgreen;
+}
+.message {
+    display: flex;
+    align-items: flex-end;
+    color: #bbffbb;
+    margin: 10px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.content {
+    padding: 10px;
+    border-radius: 5px 5px 5px 0px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.angle {
+    height: 15px;
+    width: 15px;
+    background: radial-gradient(circle at 0 0, rgba(0, 0, 0, 0) 15px, rgba(255, 255, 255, 0.3) 0);
+}
+
+.text {
+    min-width: 150px;
+    max-width: 300px;
+    word-wrap: break-word;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: bold;
+    color: #bbffbb;
+}
+
+.time {
+    display: flex;
+    justify-content: flex-end;
+    color: #bbffbb;
+}

@@ -1,0 +1,27 @@
+.someClass {
+    border: 1px solid red;
+}
+
+.error {
+    color: red;
+}
+
+.myBackground {
+    background-image: url('https://cdnn1.lt.sputniknews.com/img/07e5/0a/1d/19657322_0:381:2730:1917_1920x0_80_0_0_ab100004201ab5c186498519f3fef44e.jpg');
+    color: #bbffbb;
+}
+
+.inputClass {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: darkslateblue;
+    color: #bbffbb;
+}
+
+.button {
+    background-color: darkslateblue;
+    color: #bbffbb;
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
